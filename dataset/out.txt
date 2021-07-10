@@ -1,8 +1,0 @@
-Images are being read in
-Images were read in
-Accuracy before learning: 30.40991420400381%
-Now it's time to learn!
-Epoch done: 1
-Epoch done: 2
-Epoch done: 3
-Accuracy after learning: 99.17381633301558%
