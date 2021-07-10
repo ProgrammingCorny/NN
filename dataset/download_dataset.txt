@@ -1,0 +1,1 @@
+Download the dataset from this link and unzip the file "mnist_png.tar.gz": https://github.com/myleott/mnist_png
